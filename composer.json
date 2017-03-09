@@ -1,0 +1,16 @@
+{
+    "name": "class-central/sphinx-client",
+    "type": "libraty",
+    "authors": [
+        {
+            "name": "Oleksandr Borovets",
+            "email": "oleksandr.borovets@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SphinxClient": ""
+        }
+    },
+    "require": {}
+}
